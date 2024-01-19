@@ -1,3 +1,4 @@
-function greet(){
-    alert("18.01.2024 22:02");
-}
+let number1 = 10;
+let number2 = 5;
+let result = number1 + number2
+console.log(result);
