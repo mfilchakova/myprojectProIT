@@ -9,6 +9,13 @@
 // }
 
 
-for (let i = 1; i < 11; i++){
-    console.log("Iteration" + i);
-}
+//for (let i = 1; i < 11; i++){
+    //console.log("Iteration" + i);
+//}
+
+
+
+let vegetables = ["carrot", "potato", "cucumber"];
+vegetables.push('tomato');
+vegetables.shift();
+console.log(vegetables);
